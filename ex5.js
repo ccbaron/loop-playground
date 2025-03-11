@@ -8,10 +8,10 @@
  * ATENCIÓN: SOLO puedes cambiar el valor de la variable 'veces' para conseguirlo
  */
 
-let veces = 5;
+let veces = 10;
 
 // PROHIBIDO modificar el código a partir de aquí
 
-for (let i = 5; i < veces; i++) {
+for (let i = 0; i < veces; i++) {
   console.log("No me voy a ejecutar...");
 }

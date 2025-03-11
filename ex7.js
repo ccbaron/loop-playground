@@ -1,5 +1,5 @@
 /**
- * Ejercicio: Mostrar números pares o impares?
+ * Ejercicio: ¿Mostrar números pares o impares?
  *
  * La operación número % 2; nos indica si un número no
  * tiene residuo cuando se devide por 2. Nos permite saber si un número es par o impar. Ejemplo 8 % 2 = 0. Como el residuo es 0; podemos decir que 8 es un número par.

@@ -20,7 +20,11 @@ for (let i = 1; i <= 10; i++) {
  * Crea un bucle for que, en función de la variable 'tablaDel' , calcule la tabla de multiplicar y la muestre por consola
  * 
  * Por ejemplo, para tablaDel = 1, deberia mostrar toda la tabla de multiplicar del 1. Para tablaDel = 2, deberia mostrar la tabla de multiplicar del 2. etc.
+ * 
+ * Ejemplo tablaDel = 1 -> https://oscarm.tinytake.com/media/1739cf4?filename=1741680418660_TinyTake11-03-2025-09-06-50_638772772167267946.png&sub_type=thumbnail_preview&type=attachment&width=1199&height=459
+ * Ejemplo tablaDel = 7 -> https://oscarm.tinytake.com/media/1739cf7?filename=1741680489599_TinyTake11-03-2025-09-07-44_638772772879657109.png&sub_type=thumbnail_preview&type=attachment&width=662&height=373
  */
 
 let tablaDel = 1;
 // for...
+

@@ -1,14 +1,17 @@
 # loop-playground
 
-Algunos ejercicios para practicar con bucles.
+Algunos ejercicios para practicar con bucles. El enunciado de cada ejercicio se encuentra en un comentario, normalmente con una captura de pantalla con el resultado esperado.
 
-Propuesta de solución de [Eduard](https://github.com/GoatBass/loop-playground)
+## Cómo ejecutar cada ejercicio
 
-Nota: Para el ejercicio 0 tenéis que aprender a usar un condicional que no hemos dado. [switch](https://www.w3schools.com/js/js_switch.asp)
+Escribir `node ex1.js` y pulsar intro.
+Verificamos 
 
-## Ejercicio 11 y 12
+## Ejercicios 11 y 12
 
 Estos ejercicios se hacen abriendo el HTML con Live Server
 
-- El ejercicio 11 debe ser codificado en el fichero **mi-script.js**
-- El ejercicio 12 dene ser o codificado en el mismo HTML
+- El ejercicio 11 debe ser codificado en el fichero **mi-script.js**. Pero para ejecutar el ejercicio es necesario abrir el fichero ex11.html con el Live Server.
+- El ejercicio 12 dene ser o codificado en el mismo HTML. Para ejecutarlo abrir el fichero ex12.html con el Live Server.
+
+

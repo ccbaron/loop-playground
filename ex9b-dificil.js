@@ -1,7 +1,7 @@
 /**
  * DIFÍCIL
  * 
- * LA palabra del día. Primero, intenta entender este algoritmo. ¿Qué es lo que hace? https://lapalabradeldia.com/
+ * La palabra del día. Primero, intenta entender este algoritmo. ¿Qué es lo que hace? https://lapalabradeldia.com/
  */
 
 /**
